@@ -20,10 +20,4 @@ Each solution includes:
 - Space Complexity
 - Python Solution
 
-## Progress
 
-| Difficulty | Solved |
-|------------|--------|
-| Easy | 0 |
-| Medium | 0 |
-| Hard | 0 |
